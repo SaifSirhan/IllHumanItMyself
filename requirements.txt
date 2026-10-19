@@ -1,0 +1,4 @@
+openai>=1.30
+deep-translator>=1.11
+streamlit>=1.35
+streamlit-desktop-app>=0.3
